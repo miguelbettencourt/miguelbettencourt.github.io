@@ -11,6 +11,8 @@ Lorem ipsum.
 Robotics @ ISR.
 [Learn More](#)
 
+[Portfolio](/portfolio/)
+
 ## Educational Content
 [View Examples](#)
 
