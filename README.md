@@ -9,7 +9,7 @@ Lorem ipsum.
 
 ## Projects
 Robotics @ ISR.
-[Learn More](#)
+[Learn More](https://isr.tecnico.ulisboa.pt/)
 
 [Portfolio](/portfolio/)
 
