@@ -3,6 +3,7 @@ Welcome to my digital hub.
 
 ## 👨🏻‍💻 About Me  
 I'm Miguel Bettencourt, a 24-year-old software engineer with 1+ years of experience and a background in electrical and computer engineering. 
+
 I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
 
 🔧 I'm currently developing:  
