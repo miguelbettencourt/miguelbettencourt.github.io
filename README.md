@@ -9,7 +9,7 @@ I'm passionate about robotics, control systems, and the innovative application o
 🔧 I'm currently developing:  
 - Learning and applying the foundations of Data Engineering and Data Science.
 
-## 💼 Work Experience
+## 💼 Experience
 
 **Software Engineer @ Millennium BCP – Enterprise Data Platform**  
 *Feb 2024 – Present | Lisbon, Portugal*  
