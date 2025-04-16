@@ -1,11 +1,13 @@
 # miguelbettencourt.github.io
 
-Hello world!
+# 👋 Hello world!
+Welcome to my digital hub.
 
-Work in progress...
+## 🚀 About Me
+I'm Miguel Bettencourt, a 24-year-old electrical and computer engineer. I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
 
-## About Me
-Lorem ipsum.
+🔧 I'm currently developing:
+- Work in progress...
 
 ## Projects
 Robotics @ ISR.
@@ -13,10 +15,10 @@ Robotics @ ISR.
 
 [Portfolio](/portfolio/)
 
-## Educational Content
-[View Examples](#)
+## 📘 Educational Content
+[View Examples](#) (Coming soon!)
 
-## Contact Me
+## 📬 Contact Me
 - **Email:** [example@example.com](mailto:example@example.com)
 - **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/your-profile)
 - **GitHub:** [GitHub Profile](https://github.com/your-profile)
