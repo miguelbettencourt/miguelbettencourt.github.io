@@ -1,5 +1,5 @@
 # 👋 Hello world!  
-Welcome to my digital hub.
+Welcome to my digital page.
 
 ## 👨🏻‍💻 About Me  
 I'm Miguel Bettencourt, a 24-year-old software engineer with 1+ years of experience and a background in electrical and computer engineering. 
@@ -9,6 +9,12 @@ I'm passionate about robotics, control systems, and the innovative application o
 🔧 I'm currently developing:  
 - Learning and applying the foundations of Data Engineering and Data Science.
 
+## 💼 Work Experience
+
+
+## 📚 Education
+
+
 ## 🚀 Projects  
 **Robotics @ ISR**  
 - Developed control strategies for underwater optical communication using Extremum Seeking Control.  
@@ -16,7 +22,7 @@ I'm passionate about robotics, control systems, and the innovative application o
 [Learn More](https://isr.tecnico.ulisboa.pt/)
 
 **Marine Robotics Summer School (MIT Portugal)**  
-- Selected as 1 of 24 participants in the 2023 edition.  
+- Selected as 1 of 24 💼 in the 2023 edition.  
 - Explored robotics and automation challenges in oceanographic environments.
 
 **Enterprise Data Platform @ Millennium BCP**  
