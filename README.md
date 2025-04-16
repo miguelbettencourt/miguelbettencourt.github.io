@@ -45,7 +45,7 @@ I'm passionate about robotics, control systems, and the innovative application o
 ## 🚀 Projects  
 **Robotics @ ISR**  
 - Developed control strategies for underwater optical communication using Extremum Seeking Control.  
-- Co-authored a publication accepted at **OCEANS 2024 - Singapore** on cooperative navigation of autonomous marine vehicles.  
+- Co-authored a publication accepted at **OCEANS 2024 - Singapore** on cooperative navigation of autonomous marine vehicles, based of the work developed for my master thesis.
 [Learn More](https://isr.tecnico.ulisboa.pt/)
 
 **Marine Robotics Summer School (MIT Portugal)**  
