@@ -11,7 +11,8 @@ I'm passionate about robotics, control systems, and the innovative application o
 
 ## 💼 Work Experience
 
-**Software Developer @ Millennium BCP – Enterprise Data Platform**  
+**Software Developer @ Millennium BCP – Enterprise Data Platform** 
+*Feb 2024 – Present | Lisbon, Portugal*  
 - Contributed to the development and optimization of the data platform of Portugal’s largest private bank.  
 - Automated data lineage reporting using large language models (LLMs), saving hundreds of hours on repetitive tasks.  
 - Designed and developed an AI service for metadata enrichment, generating descriptions, assigning tags, glossary terms, and domains.  
