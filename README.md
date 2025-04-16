@@ -2,10 +2,11 @@
 Welcome to my digital hub.
 
 ## 👨🏻‍💻 About Me  
-I'm Miguel Bettencourt, a 24-year-old electrical and computer engineer. I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
+I'm Miguel Bettencourt, a 24-year-old software engineer with 1+ years of experience and a background in electrical and computer engineering. 
+I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
 
 🔧 I'm currently developing:  
-- Work in progress... 
+- Learning and applying the foundations of Data Engineering and Data Science.
 
 ## 🚀 Projects  
 **Robotics @ ISR**  
