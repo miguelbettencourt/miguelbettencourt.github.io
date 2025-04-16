@@ -1,5 +1,3 @@
-# miguelbettencourt.github.io
-
 # 👋 Hello world!
 Welcome to my digital hub.
 
