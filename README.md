@@ -11,8 +11,34 @@ I'm passionate about robotics, control systems, and the innovative application o
 
 ## 💼 Work Experience
 
+**Software Developer @ Millennium BCP – Enterprise Data Platform**  
+- Contributed to the development and optimization of the data platform of Portugal’s largest private bank.  
+- Automated data lineage reporting using large language models (LLMs), saving hundreds of hours on repetitive tasks.  
+- Designed and developed an AI service for metadata enrichment, generating descriptions, assigning tags, glossary terms, and domains.  
+- Developed a production-ready fraud detection microservice using event-driven architecture and real-time data streams.
+
+**Research Fellow @ Fundação para a Ciência e Tecnologia**  
+*Jan 2023 – Jun 2023 | Lisbon, Portugal*  
+- Research grant awarded to support the development of control strategies for underwater optical communication alignment.  
+- Worked on maintaining reliable connections in cooperative AUV missions using Extremum Seeking Control techniques at DSOR ISR.
+
+**Collaborator @ Submersible ROV Project (AZORESBOT)**  
+*Oct 2019 – Feb 2020 | Ponta Delgada, Azores*  
+- Contributed to the design and assembly of a submarine-type robot.  
+- Gained practical experience in electronics, sensors, Arduino programming, and teamwork in a multidisciplinary environment.
 
 ## 📚 Education
+
+**MSc in Electrical and Computer Engineering**  
+*Instituto Superior Técnico, Lisbon | 2021 – 2023*  
+- Final Grade: 17/20  
+- Major: Control Systems, Robotics, and Artificial Intelligence  
+- Thesis: "Cooperative navigation and control of multiple autonomous marine vehicles using bimodal acoustic/optical communication networks" (Grade: 19/20)  
+
+**BSc in Electrical and Computer Engineering**  
+*Instituto Superior Técnico, Lisbon | 2018 – 2021*  
+- Final Grade: 14/20  
+- Degree focused on programming fundamentals, telecommunications, control systems, electronics, and energy systems.
 
 
 ## 🚀 Projects  
