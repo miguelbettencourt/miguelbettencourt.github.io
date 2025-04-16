@@ -15,7 +15,7 @@ I'm passionate about robotics, control systems, and the innovative application o
 *Feb 2024 – Present | Lisbon, Portugal*  
 - Contributed to the development and optimization of the data platform of Portugal’s largest private bank.  
 - Automated data lineage reporting using large language models (LLMs), saving hundreds of hours on repetitive tasks.  
-- Designed and developed an AI service for metadata enrichment, generating descriptions, assigning tags, glossary terms, and domains.  
+- Designed and developed an AI service for metadata enrichment of data assets, generating descriptions, assigning tags, glossary terms, and domains.  
 - Developed a production-ready fraud detection microservice using event-driven architecture and real-time data streams.
 
 **Research Fellow @ Fundação para a Ciência e Tecnologia**  
