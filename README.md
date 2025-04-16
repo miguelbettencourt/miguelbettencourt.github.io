@@ -21,7 +21,7 @@ I'm passionate about robotics, control systems, and the innovative application o
 **Research Fellow @ Fundação para a Ciência e Tecnologia**  
 *Jan 2023 – Jun 2023 | Lisbon, Portugal*  
 - Research grant awarded to support the development of control strategies for underwater optical communication alignment.  
-- Worked on maintaining reliable connections in cooperative AUV missions using Extremum Seeking Control techniques at DSOR ISR.
+- Worked on maintaining reliable connections in cooperative AUV missions using Extremum Seeking Control techniques at [DSOR ISR](https://github.com/dsor-isr).
 
 **Collaborator @ Submersible ROV Project (AZORESBOT)**  
 *Oct 2019 – Feb 2020 | Ponta Delgada, Azores*  
