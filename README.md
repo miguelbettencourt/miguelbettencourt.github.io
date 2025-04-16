@@ -1,22 +1,40 @@
-# 👋 Hello world!
+# 👋 Hello world!  
 Welcome to my digital hub.
 
-## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me  
 I'm Miguel Bettencourt, a 24-year-old electrical and computer engineer. I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
 
-🔧 I'm currently developing:
-- Work in progress...
+🔧 I'm currently developing:  
+- A generative AI-powered metadata enrichment system at Millennium BCP.  
+- A production-ready fraud detection microservice using event-driven architecture.  
+- Research in cooperative navigation and control of autonomous marine vehicles.
 
-## 🚀 Projects
-Robotics @ ISR.
+## 🚀 Projects  
+**Robotics @ ISR**  
+- Developed control strategies for underwater optical communication using Extremum Seeking Control.  
+- Co-authored a publication accepted at **OCEANS 2024 - Singapore** on cooperative navigation of autonomous marine vehicles.  
 [Learn More](https://isr.tecnico.ulisboa.pt/)
 
-[Portfolio](/portfolio/)
+**Marine Robotics Summer School (MIT Portugal)**  
+- Selected as 1 of 24 participants in the 2023 edition.  
+- Explored robotics and automation challenges in oceanographic environments.
 
-## 📘 Educational Content
+**Enterprise Data Platform @ Millennium BCP**  
+- Built an AI service to enrich metadata with descriptions, tags, glossary terms, and domains.  
+- Automated data lineage reporting using LLMs.  
+- Currently developing a fraud detection microservice for real-time event streams.
+
+**Submersible ROV**  
+- Designed and assembled a submersible robot for the AZORESBOT event.  
+- Gained hands-on experience with Arduino, C programming, and embedded systems.
+
+**Pitch Detection with Fourier Transform**  
+- Developed a MATLAB tool to identify musical notes in a melody using frequency analysis.
+
+## 📘 Educational Content  
 [View Examples](#) (Coming soon!)
 
-## 📬 Contact Me
-- **Email:** [example@example.com](mailto:example@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/your-profile)
+## 📬 Contact Me  
+- **Email:** [miguel.bettencourt@tecnico.ulisboa.pt](mailto:miguel.bettencourt@tecnico.ulisboa.pt)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/miguel-bettencourt/)  
 - **GitHub:** [GitHub Profile](https://github.com/your-profile)
