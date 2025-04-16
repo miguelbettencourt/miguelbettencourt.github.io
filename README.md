@@ -3,13 +3,13 @@
 # 👋 Hello world!
 Welcome to my digital hub.
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 I'm Miguel Bettencourt, a 24-year-old electrical and computer engineer. I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
 
 🔧 I'm currently developing:
 - Work in progress...
 
-## Projects
+## 🚀 Projects
 Robotics @ ISR.
 [Learn More](https://isr.tecnico.ulisboa.pt/)
 
