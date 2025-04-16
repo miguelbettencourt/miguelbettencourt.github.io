@@ -5,9 +5,7 @@ Welcome to my digital hub.
 I'm Miguel Bettencourt, a 24-year-old electrical and computer engineer. I'm passionate about robotics, control systems, and the innovative application of AI to solve complex engineering challenges.
 
 🔧 I'm currently developing:  
-- A generative AI-powered metadata enrichment system at Millennium BCP.  
-- A production-ready fraud detection microservice using event-driven architecture.  
-- Research in cooperative navigation and control of autonomous marine vehicles.
+- Work in progress... 
 
 ## 🚀 Projects  
 **Robotics @ ISR**  
