@@ -48,7 +48,7 @@ I'm passionate about robotics, control systems, and the innovative application o
 [Learn More](https://isr.tecnico.ulisboa.pt/)
 
 **Marine Robotics Summer School (MIT Portugal)**  
-- Selected as 1 of 24 💼 in the 2023 edition.  
+- Selected as 1 of 24 students in the 2023 edition.  
 - Explored robotics and automation challenges in oceanographic environments.
 
 **Enterprise Data Platform @ Millennium BCP**  
